@@ -1,0 +1,31 @@
+table{
+    font-family: Roboto, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    border-collapse: collapse;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 70vh;
+}
+
+th, td:first-child {
+    font-weight: bold;
+    background-color: #C9A66B;
+    padding: 15px 25px;
+    color: #662E1C;
+    
+}
+
+td{
+   background-color: #EBDCB2;
+
+}
+
+td, th{
+   border-style: solid;
+   border-width: 0 2px 2px 0;
+   border-color: #AF4425;
+
+
+}
